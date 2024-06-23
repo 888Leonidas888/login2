@@ -1,0 +1,3 @@
+USE db_login;
+INSERT INTO tb_login(email, password) VALUES ('holbieC22@holbertonstudents.com', 'C22daBest');
+INSERT INTO tb_login(email, password) VALUES ('staff@holbertonschool.com','holbertonFTW');
